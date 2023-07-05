@@ -42,13 +42,13 @@ Install the theme with your preferred package manager:
 [vim-plug](https://github.com/junegunn/vim-plug)
 
 ```vim
-Plug 'UtkarshVerma/molokai.nvim', { 'branch': 'main' }
+Plug 'SergioElez/molokai.nvim', { 'branch': 'main' }
 ```
 
 [packer](https://github.com/wbthomason/packer.nvim)
 
 ```lua
-use 'UtkarshVerma/molokai.nvim'
+use 'SergioElez/molokai.nvim'
 ```
 
 ## 🚀 Usage
