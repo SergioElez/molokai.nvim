@@ -3,50 +3,27 @@ local util = require("molokai.util")
 local M = {}
 
 ---@class Palette
--- M.default = {
-  -- none = "none",
-  -- bg = "#26292C",
-  -- fg = "#f8f8f2",
-  -- fg_gutter = "#808080",
-  -- dark3 = "#464741", -- TODO
-  -- comment = "#7e8e91",
-  -- blue = "#819aff",
-  -- cyan = "#66d9ef",
-  -- magenta = "#f92672",
-  -- purple = "#ae81ff",
-  -- orange = "#fd971f",
-  -- yellow = "#e6db74",
-  -- green = "#a6e22e",
-  -- springgreen = "#00ff87",
-  -- red = "#ff4a44",
-
-  -- error = "#ff4a44",
-  -- warning = "#cd9731",
-  -- info = "#6796e6",
-  -- hint = "#b267e6",
--- }
-
 M.default = {
   none = "none",
-  bg = "#ffffff",
-  fg = "#ffffff",
-  fg_gutter = "#ffffff",
-  dark3 = "#ffffff", -- TODO
-  comment = "#ffffff",
-  blue = "#ffffff",
-  cyan = "#ffffff",
-  magenta = "#ffffff",
-  purple = "#ffffff",
-  orange = "#ffffff",
-  yellow = "#ffffff",
-  green = "#ffffff",
-  springgreen = "#ffffff",
-  red = "#ffffff",
+  bg = "#26292C",
+  fg = "#f8f8f2",
+  fg_gutter = "#808080",
+  dark3 = "#464741", -- TODO
+  comment = "#7e8e91",
+  blue = "#819aff",
+  cyan = "#66d9ef",
+  magenta = "#f92672",
+  purple = "#ae81ff",
+  orange = "#fd971f",
+  yellow = "#e6db74",
+  green = "#a6e22e",
+  springgreen = "#00ff87",
+  red = "#ff4a44",
 
-  error = "#ffffff",
-  warning = "#ffffff",
-  info = "#ffffff",
-  hint = "#ffffff",
+  error = "#ff4a44",
+  warning = "#cd9731",
+  info = "#6796e6",
+  hint = "#b267e6",
 }
 
 ---@return ColorScheme
